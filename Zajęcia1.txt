@@ -1,0 +1,8 @@
+Czas: 2-3 miesięcy
+Osoby:
+-Bazodanowiec
+-Frontend Developer 
+-Backend Developer 
+-Testerzy	
+-Projektant UI/UX
+-Team Leader
